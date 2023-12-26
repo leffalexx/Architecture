@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\BlogMainImage.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogMainImage.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\KitchanImage_1.jpg",
+      "PackagePath": "staticwebassets\\img\\KitchanImage_1.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\KitchanImage_2.jpg",
+      "PackagePath": "staticwebassets\\img\\KitchanImage_2.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\KitchanImage_3.jpg",
+      "PackagePath": "staticwebassets\\img\\KitchanImage_3.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\KitchanImage_4.jpg",
+      "PackagePath": "staticwebassets\\img\\KitchanImage_4.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\LatestPostImage.jpg",
+      "PackagePath": "staticwebassets\\img\\LatestPostImage.jpg"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_7v2\\SPA\\SPA\\wwwroot\\img\\MainImage.jpg",
+      "PackagePath": "staticwebassets\\img\\MainImage.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SPA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SPA.props",
+      "PackagePath": "build\\SPA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SPA.props",
+      "PackagePath": "buildMultiTargeting\\SPA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SPA.props",
+      "PackagePath": "buildTransitive\\SPA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

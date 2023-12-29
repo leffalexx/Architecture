@@ -39,8 +39,27 @@ public class TableService implements Model {
     }
 
     @Override
-    public int changeReservationTable(int oldReservation, Date reservationDate, int tableNo, String name) {
-// метод
-        throw new RuntimeException("Некорректный ввод данных");
+    public int changeReservationTable(int oldReservationId, Date reservationDate, int newTableNo, String name) {
+
+        for (Table table : tables) {
+            for (Reservation r : table.getReservations()) {
+                if (r.getId() == oldReservationId) {
+
+                    for (Table newTable : tables) {
+                        if (newTable.getNo() == newTableNo) {
+
+                            Reservation newReservation = new Reservation(newTable, reservationDate, name);
+                            newTable.getReservations().add(newReservation);
+
+                            return newReservation.getId();
+                        }
+                    }
+
+                    throw new RuntimeException("Столик с номером " + newTableNo + " не найден");
+                }
+            }
+        }
+
+        throw new RuntimeException("Резервирование с id " + oldReservationId + " не найдено");
     }
 }

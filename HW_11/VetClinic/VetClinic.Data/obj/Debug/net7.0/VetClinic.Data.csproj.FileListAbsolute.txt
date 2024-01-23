@@ -1,0 +1,13 @@
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.csproj.AssemblyReference.cache
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\bin\Debug\net7.0\VetClinic.Data.deps.json
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\bin\Debug\net7.0\VetClinic.Data.dll
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\bin\Debug\net7.0\VetClinic.Data.pdb
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.AssemblyInfoInputs.cache
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.AssemblyInfo.cs
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.csproj.CoreCompileInputs.cache
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.sourcelink.json
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.dll
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\refint\VetClinic.Data.dll
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\VetClinic.Data.pdb
+C:\Документы\6. University\_GeekBrains\Архитектура ПО\ДЗ\HW_11\VetClinic\VetClinic.Data\obj\Debug\net7.0\ref\VetClinic.Data.dll

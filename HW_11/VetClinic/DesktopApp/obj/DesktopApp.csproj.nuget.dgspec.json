@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\DesktopApp\\DesktopApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\DesktopApp\\DesktopApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\DesktopApp\\DesktopApp.csproj",
+        "projectName": "DesktopApp",
+        "projectPath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\DesktopApp\\DesktopApp.csproj",
+        "packagesPath": "C:\\Users\\leffa\\.nuget\\packages\\",
+        "outputPath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\DesktopApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\VetClinic.Data.csproj": {
+                "projectPath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\VetClinic.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\VetClinic.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\VetClinic.Data.csproj",
+        "projectName": "VetClinic.Data",
+        "projectPath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\VetClinic.Data.csproj",
+        "packagesPath": "C:\\Users\\leffa\\.nuget\\packages\\",
+        "outputPath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_11\\VetClinic\\VetClinic.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "NSwag.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[13.20.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

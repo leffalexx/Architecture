@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07T15uyQNu1hM2etbkygp1EVxmVOoISqLD2b0Vgzdp7fadO+c8SYrE1voIhfcfy3IaqA3dKx+Uie2Aj9Rr9m4A==",
+  "success": true,
+  "projectFilePath": "C:\\Документы\\6. University\\_GeekBrains\\Архитектура ПО\\ДЗ\\HW_12\\VetClinic\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leffa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
